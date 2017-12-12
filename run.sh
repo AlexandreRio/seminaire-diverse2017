@@ -1,2 +1,3 @@
 #!/bin/bash
-java -jar out/artifacts/fr_irisa_seminar2017_jar/fr.irisa.seminar2017.jar
+gradle fatJar
+java -jar build/libs/fr.irisa.seminar2017-all-1.0-SNAPSHOT.jar
