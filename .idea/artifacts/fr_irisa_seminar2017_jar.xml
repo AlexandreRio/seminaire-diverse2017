@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/fr_irisa_seminar2017_jar</output-path>
     <root id="archive" name="fr.irisa.seminar2017.jar">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="fr.irisa.seminar2017_main" />
       <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.15.Final/dfb9755e77dc669eb17fef2e4a3491ddd35ed287/netty-codec-socks-4.1.15.Final.jar" path-in-jar="/" />

@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017.iml" filepath="$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017_main.iml" group="fr.irisa.seminar2017" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fr.irisa.seminar2017_test.iml" group="fr.irisa.seminar2017" />
     </modules>
   </component>
 </project>
